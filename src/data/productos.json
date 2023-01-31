@@ -1,0 +1,112 @@
+[
+    {
+        "title": "Bicicleta",
+        "description": "Este es un producto de prueba",
+        "price": 200,
+        "thumbnail": "/bicicleta.png",
+        "code": "abc123",
+        "stock": 25,
+        "id": 1,
+        "status": true,
+        "category": "deporte"
+    },
+    {
+        "id": 2,
+        "title": "Computador",
+        "description": "Este es un producto actualizado",
+        "price": 1500,
+        "thumbnail": "/computador.png",
+        "code": "abc201",
+        "stock": 10,
+        "status": true,
+        "category": "deporte"
+    },
+    {
+        "id": 3,
+        "title": "Televisor",
+        "description": "Este es un producto actualizado",
+        "price": 1500,
+        "thumbnail": "/computador.png",
+        "code": "abc201",
+        "stock": 10,
+        "status": true,
+        "category": "deporte"
+    },
+    {
+        "id": 4,
+        "title": "Celular",
+        "description": "Este es un producto actualizado",
+        "price": 1500,
+        "thumbnail": "/computador.png",
+        "code": "abc201",
+        "stock": 10,
+        "status": true,
+        "category": "deporte"
+    },
+    {
+        "id": 5,
+        "title": "Soporte",
+        "description": "Este es un producto actualizado",
+        "price": 1500,
+        "thumbnail": "/computador.png",
+        "code": "abc201",
+        "stock": 10,
+        "status": true,
+        "category": "deporte"
+    },
+    {
+        "id": 6,
+        "title": "Auriculares",
+        "description": "Este es un producto actualizado",
+        "price": 1500,
+        "thumbnail": "/computador.png",
+        "code": "abc201",
+        "stock": 10,
+        "status": true,
+        "category": "deporte"
+    },
+    {
+        "id": 7,
+        "title": "Monitor",
+        "description": "Este es un producto actualizado",
+        "price": 1500,
+        "thumbnail": "/computador.png",
+        "code": "abc201",
+        "stock": 10,
+        "status": true,
+        "category": "deporte"
+    },
+    {
+        "id": 8,
+        "title": "Termostato",
+        "description": "Este es un producto actualizado",
+        "price": 1500,
+        "thumbnail": "/computador.png",
+        "code": "abc201",
+        "stock": 10,
+        "status": true,
+        "category": "deporte"
+    },
+    {
+        "id": 9,
+        "title": "Heladera",
+        "description": "Este es un producto actualizado",
+        "price": 1500,
+        "thumbnail": "/computador.png",
+        "code": "abc201",
+        "stock": 10,
+        "status": true,
+        "category": "deporte"
+    },
+    {
+        "id": 10,
+        "title": "Televisor",
+        "description": "Este es un producto actualizado",
+        "price": 1500,
+        "thumbnail": "/computador.png",
+        "code": "abc201",
+        "stock": 10,
+        "status": true,
+        "category": "deporte"
+    }
+]
